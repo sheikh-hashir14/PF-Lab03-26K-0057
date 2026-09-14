@@ -1,6 +1,6 @@
 ### Name
 Muhammad Hashir
 
-Degree: Bachelor of Science in Artificial Intelligence
+Degree: **_Bachelor of Science in Artificial Intelligence_**
 
 Hobby: Sports Photography
